@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Linux Server Administration & Hardening
 
 ## Project Overview
@@ -92,3 +93,6 @@ Private SSH keys, passwords, IP addresses, and other sensitive information are n
 ## Author
 
 Bharath Kumar Reddy
+=======
+# linux-server-administration-hardening
+>>>>>>> origin/bharathkumarreddy
